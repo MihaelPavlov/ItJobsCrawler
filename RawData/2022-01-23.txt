@@ -1,2 +1,16 @@
-All junior jobs for ruby ! Jobs Count -> 1
-7 - ян., Junior Ruby Engineer (m/f/d) ,https://dev.bg/company/jobads/nexgen-junior-ruby-engineer-m-f-d/
+All junior jobs for .net ! Jobs Count -> 15
+18 - ян., Junior .Net Developer ,https://dev.bg/company/jobads/coherent-solutions-junior-net-developer/
+18 - ян., Junior Full-stack .NET Developer ,https://dev.bg/company/jobads/sirma-junior-full-stack-net-developer/
+18 - ян., Junior .NET Developer ,https://dev.bg/company/jobads/blankfactor-junior-net-developer/
+17 - ян., Junior .NET developer ,https://dev.bg/company/jobads/7mojos-junior-net-developer/
+14 - ян., Junior .Net Developer ,https://dev.bg/company/jobads/ultraplay-junior-net-developer-2/
+10 - ян., Junior .NET Developer ,https://dev.bg/company/jobads/lead-consult-junior-net-developer-2/
+7 - ян., Junior C#.NET Cloud Software Engineer ,https://dev.bg/company/jobads/roiti-junior-c-net-cloud-software-engineer/
+5 - ян., .NET Software Engineer Intern ,https://dev.bg/company/jobads/programista-net-software-engineer-intern/
+5 - ян., Junior .NET Developer ,https://dev.bg/company/jobads/smartit-junior-net-developer/
+5 - ян., Junior .NET Developer ,https://dev.bg/company/jobads/easy-consult-junior-net-developer/
+4 - ян., Junior .NET Developer ,https://dev.bg/company/jobads/accedia-junior-net-developer-3/
+4 - ян., JUNIOR FULL STACK .NET DEVELOPER ,https://dev.bg/company/jobads/holland-hires-junior-full-stack-net-developer/
+4 - ян., Junior .NET Developer ,https://dev.bg/company/jobads/printec-bulgaria-junior-net-developer-3/
+2 - ян., Junior .NET Software Engineer ,https://dev.bg/company/jobads/endava-junior-net-software-engineer/
+29 - дек., .NET Developer – Intern ,https://dev.bg/company/jobads/bsh-net-developer-intern-2/
